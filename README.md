@@ -1,3 +1,9 @@
+## TODO
+- no delay on menu music
+- can still use buttons when focusing textfield
+- can test input
+
+
 <p align="center">
   <picture>
     <img alt="YARG Gameplay" src="./Images/Banner.png" width="100%">
@@ -35,6 +41,7 @@ YARG (a.k.a. Yet Another Rhythm Game) is a free, open-source, plastic guitar gam
 
 ## 📃 Table of Contents
 
+- [TODO](#todo)
 - [👉 Disclaimer](#-disclaimer)
 - [📃 Table of Contents](#-table-of-contents)
 - [📥 Downloading and Playing](#-downloading-and-playing)

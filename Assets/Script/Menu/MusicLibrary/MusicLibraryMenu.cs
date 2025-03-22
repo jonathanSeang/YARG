@@ -182,7 +182,7 @@ namespace YARG.Menu.MusicLibrary
 
         protected override void OnSelectedIndexChanged()
         {
-            const double PREVIEW_SCROLL_DELAY = .6f;
+            const double PREVIEW_SCROLL_DELAY = .1f;
             base.OnSelectedIndexChanged();
 
             _sidebar.UpdateSidebar();
